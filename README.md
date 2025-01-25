@@ -4,7 +4,9 @@ A roblox requiring module that uses loadstring. This is good for plugins as it u
 ### Roblox
 https://create.roblox.com/store/asset/91498231301781/Import
 ### Wally
-
+```
+Import = "prophetouw/import@1.0.0"
+```
 ### Github
 Go to the [releases](https://github.com/ProphetOuw/Import/releases/tag/v1) page and download the latest rbxm.
 ## How to use
