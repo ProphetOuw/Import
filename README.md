@@ -1,5 +1,5 @@
 # Import
-A roblox requiring module that uses loadstring. This is good for plugins as it uses the up to date source, it replaces all requires in the required module with Imports so it's nested.
+When used, this module uses loadstring to run the source code of a given modulescript, it replaces all of the requires in that module script with the Import module. This package is useful for people who are making plugins or that might need to test script changes without having to go in test mode.
 ## Installing
 ### Roblox
 https://create.roblox.com/store/asset/91498231301781/Import
