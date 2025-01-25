@@ -1,6 +1,6 @@
 {
     "name": "Import",
     "tree": {
-      "$path": "src/index.luau"
+      "$path": "src"
     }
   }
