@@ -1,6 +1,6 @@
 [package]
 name = "prophetouw/import"
-version = "1.0.2"
+version = "1.0.3"
 registry = "https://github.com/ProphetOuw/Import"
 realm = "shared"
 
